@@ -13,7 +13,7 @@
 				<li
 					class="block p-1 font-sans text-sm antialiased font-medium leading-normal text-blue-gray-900"
 				>
-					<a href="#" class="flex items-center transition-colors hover:text-blue-500"> Pages </a>
+					<a href="#" class="flex items-center transition-colors hover:text-blue-500"> Home </a>
 				</li>
 				<li
 					class="block p-1 font-sans text-sm antialiased font-medium leading-normal text-blue-gray-900"
